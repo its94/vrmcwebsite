@@ -142,13 +142,13 @@ const Hero = ({ handleVMTreeCreation }) => {
           <Image src="/add_new_vmt_icon.svg" alt="VMTree" mt="5em" />
         </Link>
         <Button
-          bgColor="#365AD2"
+          bgColor="#1a202c"
           color="#fff"
           leftIcon={<AddIcon />}
           _hover={{
             background: "#fff",
-            borderColor: "#365AD2",
-            color: "#365AD2",
+            borderColor: "#1a202c",
+            color: "#1a202c",
             borderWidth: "1.5px",
             boxShadow:"lg"
           }}
@@ -220,12 +220,12 @@ const Hero = ({ handleVMTreeCreation }) => {
                 Close
               </Button>
               <Button
-                bgColor="#365AD2"
+                bgColor="#1a202c"
                 color="#fff"
                 _hover={{
                   background: "#fff",
-                  borderColor: "#365AD2",
-                  color: "#365AD2",
+                  borderColor: "#1a202c",
+                  color: "#1a202c",
                   borderWidth: "1.5px",
                 }}
                 onClick={() => {

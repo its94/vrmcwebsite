@@ -35,7 +35,7 @@ const LandingPage = (props) => {
           <Flex
             justifyContent="space-between"
             alignItems="center"
-            pt="70px"
+            pt="140px"
             mb="5em"
             backgroundSize="contain"
             backgroundImage="url(/tree_skeleton_small.svg)"
@@ -45,15 +45,15 @@ const LandingPage = (props) => {
           >
             <Flex
               ml="10em"
-              bgColor="#365AD2"
+              bgColor="#1a202c"
               borderBottomRadius="50%"
               p="10px"
               h="full"
             >
               <Image
-                src="/vmt_logo_white.svg"
-                boxSize="280px"
-                alt="VMTree"
+                src="/VRMCrrturqalpha.png"
+                boxSize="180px"
+                alt="VRMC"
                 zIndex="2"
               />
             </Flex>
@@ -63,10 +63,10 @@ const LandingPage = (props) => {
                 fontSize="5xl"
                 fontWeight="semibold"
               >
-                Verifiable Merkle Trees
+                VRMeta Center
               </Heading>
               <Text letterSpacing="widest" textTransform="uppercase">
-                affordable privacy on-chain
+              WE BUILD BREATHTAKING VIRTUAL REALITY EXPERIENCES AND 3D VIDEOS. 100% ADAPTED TO YOUR BUSINESS NEEDS WITH AN END TO END DIGITAL PROCESS
               </Text>
               <Link
                 sx={{ textDecoration: "none" }}
@@ -80,14 +80,14 @@ const LandingPage = (props) => {
                   mt="2em"
                   pl="2em"
                   pr="1em"
-                  borderRadius={155}
-                  bg="#365AD2"
+                  borderRadius={0}
+                  bg="#1a202c"
                   color="#fff"
                   boxShadow="dark-lg"
                   rightIcon={<ChevronRightIcon />}
-                  _hover={{ background: "#fff", color: "#365AD2" }}
+                  _hover={{ background: "#fff", color: "#1a202c" }}
                 >
-                  Try it!
+                  Buy token!
                 </Button>
               </Link>
             </Flex>
@@ -117,9 +117,9 @@ const LandingPage = (props) => {
                 fontSize="6xl"
                 fontWeight="semibold"
               >
-                VMTree
+                VRMC
               </Heading>
-              <Text letterSpacing="widest">Verifiable Merkle Trees</Text>
+              <Text letterSpacing="widest">VRMeta Center</Text>
               <Link
                 sx={{ textDecoration: "none" }}
                 _hover={{ textDecoration: "none" }}
@@ -132,13 +132,13 @@ const LandingPage = (props) => {
                   pl="2em"
                   pr="1em"
                   borderRadius={155}
-                  bg="#365AD2"
+                  bg="#1a202c"
                   color="#fff"
                   rightIcon={<ChevronRightIcon />}
                   boxShadow="dark-lg"
                   _hover={{
                     background: "#fff",
-                    color: "#365AD2",
+                    color: "#1a202c",
                     textDecoration: "none",
                   }}
                 >
@@ -150,7 +150,7 @@ const LandingPage = (props) => {
         </Show>
 
         <Text color="gray.500" mb="2em" letterSpacing="widest" fontSize="sm">
-          A Chainlink 2022 Hackathon Project
+        Welcome to the world of VRMeta Center & VRMeta Sports
         </Text>
 
         <Flex
@@ -166,7 +166,7 @@ const LandingPage = (props) => {
           backgroundPosition="right"
           backgroundRepeat="no-repeat"
           w="full"
-          bg="#365AD2"
+          bg="#1a202c"
           zIndex="0"
         >
           <Flex
@@ -176,12 +176,12 @@ const LandingPage = (props) => {
           >
             <Tooltip label="Dummy Numbers">
               <Text fontSize="2xl" color="#fff">
-                38
+              VRMC
               </Text>
             </Tooltip>
 
             <Text fontSize="sm" color="#fff">
-              Merke Trees Deployed
+            Token Symbol
             </Text>
           </Flex>
           <Center height="50px">
@@ -194,11 +194,11 @@ const LandingPage = (props) => {
           >
             <Tooltip label="Dummy Numbers">
               <Text fontSize="2xl" color="#fff">
-                287
+              VRMetaCenter
               </Text>
             </Tooltip>
             <Text fontSize="sm" color="#fff">
-              Transactions
+            Token Name
             </Text>
           </Flex>
           <Center height="50px">
@@ -211,11 +211,11 @@ const LandingPage = (props) => {
           >
             <Tooltip label="Dummy Numbers">
               <Text fontSize="2xl" color="#fff">
-                5982
+              1000000000000
               </Text>
             </Tooltip>
             <Text fontSize="sm" color="#fff">
-              Fee Generated
+              Supply
             </Text>
           </Flex>
         </Flex>
@@ -232,7 +232,7 @@ const LandingPage = (props) => {
             <ChevronDownIcon
               boxSize="10"
               borderRadius="50%"
-              color="#365AD2"
+              color="#1a202c"
               zIndex="9999"
             />
           </Link>
@@ -258,7 +258,7 @@ const LandingPage = (props) => {
       >
         <Flex
           flexDirection="column"
-          backgroundColor="#365AD2"
+          backgroundColor="#1a202c"
           color="#fff"
           p="5%"
           maxW="65%"
@@ -270,22 +270,18 @@ const LandingPage = (props) => {
             VMTs
           </Text>
           <Text mt="1em">
-            VMTrees use merkle trees combined with cryptographic proof for a
-            variety of use cases such as anonymous airdrops, governance voting
-            and privacy mixers.
+          We build breathtaking Virtual Reality experiences and 3D videos. 100% adapted to your business needs with an end to end digital process.
             <br />
             <br />
-            This is not limited to Ethereum - using Chainlink allows the
-            technology to be layer 1 blockchain agnostic.
+            Your role is determined by your goals. Just some of the options that can be filled with experience and passion.
             <br />
             <br />
-            Please read our documentation to learn how Verifiable Merkle Trees
-            work under the hood.
+            Play Tran Coach Manage Own, Sell, Earn, and more...
           </Text>
         </Flex>
         <Flex flexDirection="column" mr="10%" alignItems="center">
           <Link
-            href="https://github.com/vmtree/chainlink-vmt#readme"
+            href="https://vrmetacenterdocumentation.vercel.app/"
             isExternal
             _hover={{ textDecoration: "none", boxShadow: "2xl" }}
             borderRadius="50%"
@@ -296,18 +292,18 @@ const LandingPage = (props) => {
           >
             <ExternalLinkIcon
               boxSize="60px"
-              color="#365AD2"
+              color="#1a202c"
               pl="20px"
               pt="20px"
             />
           </Link>
           <Link
-            href="https://github.com/vmtree/chainlink-vmt#readme"
+            href="https://vrmetacenterdocumentation.vercel.app/"
             _hover={{ textDecoration: "none" }}
             mt="1em"
             isExternal
           >
-            <Text fontWeight="semibold">Read the Docs</Text>
+            <Text fontWeight="semibold">Documentation</Text>
           </Link>
         </Flex>
       </Flex>
@@ -351,7 +347,7 @@ const LandingPage = (props) => {
         id="team"
         justifyContent="center"
       >
-        <Heading>The Team</Heading>
+        <Heading>VRMC Team</Heading>
         <Flex
           flexDirection="column"
           justifyContent="center"

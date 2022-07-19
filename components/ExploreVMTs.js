@@ -75,12 +75,12 @@ const ExploreVMTs = (props) => {
             m={5}
             onClick={() => runContractFunction()}
             rightIcon={<ChevronDownIcon />}
-            bgColor="#365AD2"
+            bgColor="#1a202c"
             color="#fff"
             _hover={{
               background: "#fff",
-              borderColor: "#365AD2",
-              color: "#365AD2",
+              borderColor: "#1a202c",
+              color: "#1a202c",
               borderWidth: "1.5px",
               boxShadow: "lg",
             }}

@@ -126,9 +126,9 @@ const ManageVMTs = (props) => {
             rightIcon={<ChevronDownIcon />}
             onClick={() => runContractFunction()}
             bgColor="#EBF8FF"
-            color="#365AD2"
+            color="#1a202c"
             _hover={{
-              background: "#365AD2",
+              background: "#1a202c",
               borderColor: "#fff",
               color: "#fff",
               borderWidth: "1.5px",

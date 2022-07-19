@@ -48,7 +48,7 @@ const Footer = () => {
         <Flex flexDirection="column" >
           <Flex>
             <Link
-              href="https://github.com/vmtree/solidity"
+              href="https://vrmetacenterdocumentation.vercel.app/"
               isExternal="true"
               sx={{ textDecoration: "none" }}
               _hover={{ textDecoration: "none" }}
@@ -57,16 +57,16 @@ const Footer = () => {
                 variant="solid"
                 size="md"
                 m="1em"
-                borderRadius={18}
+                borderRadius={0}
                 bg="#fff"
                 _hover={{ background: "#2c4cb6", color: "#fff" }}
                 sx={{ textDecoration: "none" }}
               >
-                GITHUB
+                DOCUMENTATION
               </Button>
             </Link>
             <Link
-              href="https://github.com/vmtree/chainlink-vmt#readme"
+              href="/dapp"
               isExternal="true"
               sx={{ textDecoration: "none" }}
               _hover={{ textDecoration: "none" }}
@@ -75,11 +75,11 @@ const Footer = () => {
                 variant="solid"
                 size="md"
                 m="1em"
-                borderRadius={18}
+                borderRadius={0}
                 bg="#fff"
                 _hover={{ background: "#2c4cb6", color: "#fff" }}
               >
-                ABOUT
+                DAPP
               </Button>
             </Link>
           </Flex>

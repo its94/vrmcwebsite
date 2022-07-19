@@ -363,15 +363,15 @@ const LandingPage = (props) => {
                 alignItems="center"
                 justifyContent="center"
               >
-                <Avatar size={"xl"} src="/u_twisterDev.png" alt="Twister Dev" />
+                <Avatar size={"xl"} src="https://vrmcwebsitedeploy.vercel.app/VRMCrrturqalpha.png" alt="john Dev" />
                 <Text fontWeight={600} color={"gray.500"} mb={1}>
-                  Twister Dev {"   "}
+                  John Doe {"   "}
                 </Text>
                 <Stack align={"center"} justify={"center"} direction={"row"}>
-                  <Link href="https://github.com/twister-dev">
+                  <Link href="https://vrmcwebsitedeploy.vercel.app/VRMCrrturqalpha.png">
                     <Image src="/github.svg" alt="github" borderRadius="full" />
                   </Link>
-                  <Link href="https://twitter.com/youjustwin42">
+                  <Link href="https://vrmcwebsitedeploy.vercel.app/VRMCrrturqalpha.png">
                     <Image
                       src="/twitter.svg"
                       alt="twitter"
@@ -392,12 +392,12 @@ const LandingPage = (props) => {
                 alignItems="center"
                 justifyContent="center"
               >
-                <Avatar size={"xl"} src="/u_brad.jpg" alt="Twister Dev" />
+                <Avatar size={"xl"} src="https://vrmcwebsitedeploy.vercel.app/VRMCrrturqalpha.png" alt="john Dev" />
                 <Text fontWeight={600} color={"gray.500"} mb={1}>
-                  heyitsbrad
+                  John Doe
                 </Text>
                 <Stack align={"center"} justify={"center"} direction={"row"}>
-                  <Link href="https://github.com/swicksystems">
+                  <Link href="https://vrmcwebsitedeploy.vercel.app/VRMCrrturqalpha.png">
                     <Image src="/github.svg" alt="github" borderRadius="full" />
                   </Link>
                 </Stack>
@@ -416,22 +416,22 @@ const LandingPage = (props) => {
                 alignItems="center"
                 justifyContent="center"
               >
-                <Avatar size={"xl"} src="/u_aayush.png" alt="Twister Dev" />
+                <Avatar size={"xl"} src="https://vrmcwebsitedeploy.vercel.app/VRMCrrturqalpha.png" alt="Twister Dev" />
                 <Text fontWeight={600} color={"gray.500"} mb={1}>
-                  aayush4vedi
+                John Doe
                 </Text>
                 <Stack align={"center"} justify={"center"} direction={"row"}>
-                  <Link href="https://github.com/aayush4vedi">
+                  <Link href="https://vrmcwebsitedeploy.vercel.app/VRMCrrturqalpha.png">
                     <Image src="/github.svg" alt="github" borderRadius="full" />
                   </Link>
-                  <Link href="https://twitter.com/aayush4vedi">
+                  <Link href="https://vrmcwebsitedeploy.vercel.app/VRMCrrturqalpha.png">
                     <Image
                       src="/twitter.svg"
                       alt="twitter"
                       borderRadius="full"
                     />
                   </Link>
-                  <Link href="https://www.linkedin.com/in/aayush-chaturvedi-bb7143116/">
+                  <Link href="https://vrmcwebsitedeploy.vercel.app/VRMCrrturqalpha.png">
                     <Image
                       src="/linkedin.svg"
                       alt="linkedin"
@@ -452,12 +452,12 @@ const LandingPage = (props) => {
                 alignItems="center"
                 justifyContent="center"
               >
-                <Avatar size={"xl"} src="/u_cedric.JPG" alt="Twister Dev" />
+                <Avatar size={"xl"} src="https://vrmcwebsitedeploy.vercel.app/VRMCrrturqalpha.png" alt="John Doe" />
                 <Text fontWeight={600} color={"gray.500"} mb={1}>
-                  Cedric Heidt
+                  John Doe
                 </Text>
                 <Stack align={"center"} justify={"center"} direction={"row"}>
-                  <Link href="https://www.linkedin.com/in/cedric-heidt/">
+                  <Link href="https://vrmcwebsitedeploy.vercel.app/VRMCrrturqalpha.png">
                     <Image
                       src="/linkedin.svg"
                       alt="linkedin"

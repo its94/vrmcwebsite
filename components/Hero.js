@@ -139,7 +139,7 @@ const Hero = ({ handleVMTreeCreation }) => {
         alignItems="center"
       >
         <Link>
-          <Image src="/add_new_vmt_icon.svg" alt="VMTree" mt="5em" />
+          <Image src="/vrmctokenmini.png" alt="VMTree" mt="5em" />
         </Link>
         <Button
           bgColor="#1a202c"
@@ -157,19 +157,19 @@ const Hero = ({ handleVMTreeCreation }) => {
           borderRadius={18}
           zIndex="0"
         >
-          Deploy A New VMTree
+          Deploy A Staking Contract
         </Button>
 
         <Modal isOpen={isOpen} onClose={onClose}>
           <ModalOverlay />
           <ModalContent w="full">
             <ModalHeader justifyContent="center">
-              Deploy A New VMTree
+              Deploy A New Staking
             </ModalHeader>
             <ModalCloseButton />
             <ModalBody pb={6}>
               <FormControl>
-                <FormLabel>Tree Name</FormLabel>
+                <FormLabel>Staking Name</FormLabel>
                 <Input
                   ref={initialRef}
                   placeholder="Enter Tree Name"
@@ -181,7 +181,7 @@ const Hero = ({ handleVMTreeCreation }) => {
               </FormControl>
 
               <FormControl mt={4} isRequired>
-                <FormLabel>Controller&apos;s ETH Address</FormLabel>
+                <FormLabel>Controller&apos;s VRMC Address</FormLabel>
                 <Input
                   placeholder="Enter Address"
                   width="32em"
@@ -192,7 +192,7 @@ const Hero = ({ handleVMTreeCreation }) => {
               </FormControl>
 
               <FormControl mt={4} isRequired>
-                <FormLabel>LINKs to Prefund the VMTree</FormLabel>
+                <FormLabel>VRMCs to Prefund the VMTree</FormLabel>
                 <Input
                   placeholder="Enter #LINKs"
                   width="32em"
@@ -201,10 +201,10 @@ const Hero = ({ handleVMTreeCreation }) => {
                   onChange={handleLinksChange}
                 />
                 {isLinksError ? (
-                  <FormErrorMessage>LINKs should atleast be one.</FormErrorMessage>
+                  <FormErrorMessage>VRMC should atleast be one.</FormErrorMessage>
                   ) : (
                     <FormHelperText>
-                      Enter the number of LINK tokens to prefund you tree
+                      Enter the number of VRMC tokens to prefund you tree
                     </FormHelperText>
                   )}
               </FormControl>

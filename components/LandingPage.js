@@ -46,7 +46,7 @@ const LandingPage = (props) => {
             <Flex
               ml="10em"
               bgColor="#1a202c"
-              borderBottomRadius="50%"
+              borderBottomRadius="0%"
               p="10px"
               h="full"
             >
@@ -225,13 +225,13 @@ const LandingPage = (props) => {
             href="#about"
             _hover={{ textDecoration: "none", boxShadow: "dark-lg" }}
             mt="80px"
-            borderRadius="50%"
+            borderRadius="0%"
             boxShadow="dark-lg"
             pos="absolute"
           >
             <ChevronDownIcon
               boxSize="10"
-              borderRadius="50%"
+              borderRadius="0%"
               color="#1a202c"
               zIndex="9999"
             />
@@ -240,11 +240,8 @@ const LandingPage = (props) => {
 
         <Flex align="center" w="50%" mt="8%">
           <Text textAlign="center" letterSpacing="wide">
-            Introducing an evolution in cryptographically guaranteed composable
-            smart contracts. <br />
-            Utilizing Chainlink for off-chain computation, entirely new
-            paradigms of anonymity are possible. <br />
-            All for significantly less gas fees!
+          Your role is determined by your goals. <br />
+           
           </Text>
         </Flex>
       </Flex>
@@ -263,8 +260,8 @@ const LandingPage = (props) => {
           p="5%"
           maxW="65%"
           ml={0}
-          borderTopRightRadius="35em"
-          borderBottomRightRadius="35em"
+          borderTopRightRadius="0em"
+          borderBottomRightRadius="0em"
         >
           <Text fontSize="5xl" fontWeight="bold">
             VMTs

@@ -26,7 +26,7 @@ const Footer = () => {
       bottom= "0"
     >
       <Text color="gray.500" mb="8em" letterSpacing="widest">
-        A Chainlink 2022 Hackathon Project
+         VRMC & VRMCSPORTS
       </Text>
       <Flex
         flexDirection="column"
@@ -40,7 +40,7 @@ const Footer = () => {
         w="full"
       >
         <Image
-          src="/vmt_logo_white.svg"
+          src="/vrmctokenmini.png"
           alt="VMTree"
           mt="-4em"
           boxSize="150px"

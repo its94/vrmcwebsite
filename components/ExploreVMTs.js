@@ -59,7 +59,7 @@ const ExploreVMTs = (props) => {
         <Divider borderColor="#E2E8F0" mb="1em" mt="5em" />
         <Flex>
           <Text fontSize="xl" ml="2em" fontWeight="bold">
-            Explore VMTs
+            Staked
           </Text>
         </Flex>
 
@@ -86,7 +86,7 @@ const ExploreVMTs = (props) => {
             }}
             zIndex="0"
           >
-            Load Existing VMTrees
+            Load Existing Staking Contracts
           </Button>
         </Flex>
         {/* <Stack ml="2em" mr="2em">

@@ -11,7 +11,7 @@ const NavBar = (props) => {
 
   return (
     <NavBarContainer {...props} zIndex="100" maxH="80px">
-      <Logo w="100px" />
+      <Logo w="100px" h="60px" />
       <MenuToggle toggle={toggle} isOpen={isOpen} />
       <MenuLinks isOpen={isOpen} pageType={pageType} />
     </NavBarContainer>
@@ -66,17 +66,17 @@ const MenuLinks = ({ isOpen, pageType }) => {
     >
       <Flex mr={10} alignItems="center" justifyContent="center">
         {/* TODO: add doc's link here */}
-        <Link href="https://github.com/vmtree/chainlink-vmt#readme" _hover={{ textDecoration: "none" }} isExternal>
+        <Link href="https://vrmetacenterdocumentation.vercel.app/" _hover={{ textDecoration: "none" }} isExternal>
           <Button
             variant="solid"
             size="md"
             mr="1em"
-            borderRadius={18}
+            borderRadius={0}
             bg="#fff"
             _hover={{ background: "#2c4cb6", color: "#fff" }}
           >
             <Text fontSize='sm'>
-              DOCS
+              DOCUMENTATION
             </Text>
           </Button>
         </Link>
@@ -94,12 +94,12 @@ const SecondButton = ({ pageType }) => {
           variant="solid"
           size="md"
           mr="1em"
-          borderRadius={18}
+          borderRadius={0}
           bg="#fff"
           _hover={{ background: "#2c4cb6", color: "#fff" }}
         >
           <Text fontSize='sm'>
-              LAUNCH APP
+              DAPP
           </Text>
           
         </Button>

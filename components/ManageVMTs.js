@@ -110,7 +110,7 @@ const ManageVMTs = (props) => {
       <Box paddingLeft="7%" paddingRight="7%">
         <Flex>
           <Text fontSize="xl" ml="2em" fontWeight="bold">
-            Load Your VMTrees
+            Your Staking
           </Text>
         </Flex>
 
@@ -136,7 +136,7 @@ const ManageVMTs = (props) => {
             }}
             zIndex="0"
           >
-            Load Your VMTrees
+            Your Staking
           </Button>
         </Flex>
         {/* <Stack ml="2em" mr="2em">

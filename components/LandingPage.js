@@ -264,7 +264,7 @@ const LandingPage = (props) => {
           borderBottomRightRadius="0em"
         >
           <Text fontSize="5xl" fontWeight="bold">
-            VMTs
+            VRMETA SPORTS
           </Text>
           <Text mt="1em">
           We build breathtaking Virtual Reality experiences and 3D videos. 100% adapted to your business needs with an end to end digital process.

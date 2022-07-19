@@ -70,7 +70,7 @@ const Hero = ({ handleVMTreeCreation }) => {
   function showStatusToast() {
     toast({
           title: 'FORM SUBMIT',
-          description: 'Your VMTree is getting deployed !',
+          description: 'VRMC STAKING CONTRACT IS DEPLOYING !',
           status: 'info',
           duration: 4000,
           isClosable: true,
@@ -80,7 +80,7 @@ const Hero = ({ handleVMTreeCreation }) => {
   function showSuccessToast() {
     toast({
           title: 'SUCCESS',
-          description: "Congrats! VMTree Created Successfully. Refresh page to see it.",
+          description: "Congrats! Staake Vrmc Created Successfully. Refresh page to see it.",
           status: 'success',
           duration: 9000,
           isClosable: true,

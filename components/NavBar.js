@@ -120,7 +120,7 @@ const Logo = (props) => {
   return (
     <Flex alignItems="center">
       <Link href="/" pl={5}>
-        <Image src="/vmtree_logo.svg" alt="VMTree" boxSize="90%" />
+        <Image src="/VRMCrrturqalpha.png" alt="VMTree" boxSize="90%" />
       </Link>
       <Link href="/" _hover={{ textDecoration: "none" }}>
         <Text
@@ -130,7 +130,7 @@ const Logo = (props) => {
           fontSize={36}
           letterSpacing="wider"
         >
-          VMTree
+          VRMETA VRMetaCenter
         </Text>
       </Link>
     </Flex>

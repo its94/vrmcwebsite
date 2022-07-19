@@ -21,7 +21,7 @@ export default function Dapp() {
   return (
     <>
       <Head>
-        <title>VMTree | DAPP </title>
+        <title>VRMC | DAPP </title>
         <meta content="width=device-width, initial-scale=1" name="viewport" />
       </Head>
       <Box

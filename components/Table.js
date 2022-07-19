@@ -68,7 +68,7 @@ export const TreeTable = (props) => {
   return (
     <TableContainer>
       <Table variant='simple'>
-        <TableCaption>List of VMTrees Deployed</TableCaption>
+        <TableCaption>List of VRMC Deployed</TableCaption>
         <Thead>
           <Trh>
             <Th>STATUS</Th>
@@ -87,7 +87,7 @@ export const TreeTable = (props) => {
                   <Image src="disabled_vmt.svg" alt="disabled" />
                 )}
             </Td>
-            <Td fontSize='xs'>Meeseeks MVTree</Td>
+            <Td fontSize='xs'>VRMC</Td>
             <Td fontSize='xs'>0x0F653dd95066150992B12D75D7735169F48A7871</Td>
             <Td fontSize='xs'>0x5a7F15934bA2BdeAF36E5Be4206423c12421AAB8</Td>
             <Td fontSize='xs'>0x5a7F15934bA2BdeAF36E5Be4206423c12421AAB8</Td>
@@ -100,7 +100,7 @@ export const TreeTable = (props) => {
                   <Image src="disabled_vmt.svg" alt="disabled" />
                 )}
             </Td>
-            <Td fontSize='xs'>Meeseeks MVTree</Td>
+            <Td fontSize='xs'>VRMC</Td>
             <Td fontSize='xs'>0x0F653dd95066150992B12D75D7735169F48A7871</Td>
             <Td fontSize='xs'>0x5a7F15934bA2BdeAF36E5Be4206423c12421AAB8</Td>
             <Td fontSize='xs'>0x5a7F15934bA2BdeAF36E5Be4206423c12421AAB8</Td>
@@ -113,7 +113,7 @@ export const TreeTable = (props) => {
                   <Image src="disabled_vmt.svg" alt="disabled" />
                 )}
             </Td>
-            <Td fontSize='xs'>Meeseeks MVTree</Td>
+            <Td fontSize='xs'>VRMC</Td>
             <Td fontSize='xs'>0x0F653dd95066150992B12D75D7735169F48A7871</Td>
             <Td fontSize='xs'>0x5a7F15934bA2BdeAF36E5Be4206423c12421AAB8</Td>
             <Td fontSize='xs'>0x5a7F15934bA2BdeAF36E5Be4206423c12421AAB8</Td>

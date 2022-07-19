@@ -324,15 +324,7 @@ const LandingPage = (props) => {
         </Flex>
       </Flex>
 
-      <Container justifyContent="center" mt="5%">
-        <AspectRatio maxW="560px" ratio={4 / 3}>
-          <iframe
-            title="naruto"
-            src="https://www.youtube.com/embed/FZeOU83Ktj8"
-            allowFullScreen
-          />
-        </AspectRatio>
-      </Container>
+      
 
       <Flex
         flexDirection="column"

@@ -116,7 +116,7 @@ const ExploreVMTs = (props) => {
         />
       <Flex>
         <Text fontSize="xl" ml="5px" fontWeight="bold" mb="10px">
-          Explore VMTs
+          Explore VRMC
         </Text>
       </Flex>
 
@@ -126,7 +126,7 @@ const ExploreVMTs = (props) => {
         <Thead>
           <Trh>
             <Th>STATUS</Th>
-            <Th>TREE NAME</Th>
+            <Th>VRMC NAME</Th>
             <Th>CONTRACT ADDRESS</Th>
             <Th>CONTROLLER</Th>
             <Th>LINK PAYER</Th>

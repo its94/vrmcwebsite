@@ -192,7 +192,7 @@ const Hero = ({ handleVMTreeCreation }) => {
               </FormControl>
 
               <FormControl mt={4} isRequired>
-                <FormLabel>VRMCs to Prefund the VMTree</FormLabel>
+                <FormLabel>VRMCs to Prefund the Staking</FormLabel>
                 <Input
                   placeholder="Enter #LINKs"
                   width="32em"
@@ -204,7 +204,7 @@ const Hero = ({ handleVMTreeCreation }) => {
                   <FormErrorMessage>VRMC should atleast be one.</FormErrorMessage>
                   ) : (
                     <FormHelperText>
-                      Enter the number of VRMC tokens to prefund you tree
+                      Enter the number of VRMC tokens to prefund you staking
                     </FormHelperText>
                   )}
               </FormControl>

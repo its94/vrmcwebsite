@@ -132,7 +132,7 @@ const LandingPage = (props) => {
                   pl="2em"
                   pr="1em"
                   borderRadius={0}
-                  bg="#1a202c"
+                  bg="#ddd"
                   color="#fff"
                   rightIcon={<ChevronRightIcon />}
                   boxShadow="dark-lg"
@@ -161,7 +161,7 @@ const LandingPage = (props) => {
           pb="3em"
           pl="15%"
           pr="15%"
-          backgroundSize="contain"
+          backgroundSize="cover"
           backgroundImage="url(/shutterstock_1927651358.jpg)"
           backgroundPosition="right"
           backgroundRepeat="no-repeat"
@@ -257,6 +257,8 @@ const LandingPage = (props) => {
           flexDirection="column"
           backgroundColor="#1a202c"
           color="#fff"
+          backgroundImage="url(/shutterstock_1927651358.jpg)"
+          backgroundRepeat="no-repeat"
           p="5%"
           maxW="65%"
           ml={0}

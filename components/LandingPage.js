@@ -57,7 +57,7 @@ const LandingPage = (props) => {
                 zIndex="2"
               />
             </Flex>
-            <Flex mr="20%" flexDirection="column" h="full">
+            <Flex mr="20%" flexDirection="column" h="full" backgroundImage="url(/shutterstock_1927651358.jpg)">
               <Heading
                 letterSpacing="widest"
                 fontSize="5xl"

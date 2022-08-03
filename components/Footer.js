@@ -85,7 +85,7 @@ const Footer = () => {
           </Flex>
         </Flex>
         <Code color="whiteAlpha.600" mb="2em" mt="4em" fontSize="sm" bg="none">
-          © Copyright 2022 VMTree - All rights reserved
+          © Copyright 2022 VRmetaCenter - All rights reserved
         </Code>
       </Flex>
     </Flex>

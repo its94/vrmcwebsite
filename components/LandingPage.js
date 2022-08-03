@@ -63,7 +63,7 @@ const LandingPage = (props) => {
                 fontSize="5xl"
                 fontWeight="semibold"
               >
-                VRMeta Center
+                VRMetaCenter
               </Heading>
               <Text letterSpacing="widest" textTransform="uppercase">
               WE BUILD BREATHTAKING VIRTUAL REALITY EXPERIENCES AND 3D VIDEOS. 100% ADAPTED TO YOUR BUSINESS NEEDS WITH AN END TO END DIGITAL PROCESS
@@ -119,7 +119,7 @@ const LandingPage = (props) => {
               >
                 VRMC
               </Heading>
-              <Text letterSpacing="widest">VRMeta Center</Text>
+              <Text letterSpacing="widest">VRMetaCenter</Text>
               <Link
                 sx={{ textDecoration: "none" }}
                 _hover={{ textDecoration: "none" }}
@@ -150,7 +150,7 @@ const LandingPage = (props) => {
         </Show>
 
         <Text color="gray.500" mb="2em" letterSpacing="widest" fontSize="sm">
-        Welcome to the world of VRMeta Center & VRMeta Sports
+        Welcome to the world of VRMetaCenter!
         </Text>
 
         <Flex
@@ -240,8 +240,8 @@ const LandingPage = (props) => {
 
         <Flex align="center" w="50%" mt="8%">
           <Text textAlign="center" letterSpacing="wide">
-          Your role is determined by your goals. <br />
-           
+          What is VRMetaCenter all about? <br />
+          VRMetaCenter is the main umbrella that will integrate the various “Meta Verticals” that will comprise the entire Meta Ecosystem. With thoughtful and meaningful projects aimed at bringing EVERYBODY together, we strive to create a system that supports Sports, Business, Education, Research, and Leisure verticals.
           </Text>
         </Flex>
       </Flex>

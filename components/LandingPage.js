@@ -174,7 +174,7 @@ const LandingPage = (props) => {
             justifyContent="center"
             alignItems="center"
           >
-            <Tooltip label="Dummy Numbers">
+            <Tooltip label="VRMC">
               <Text fontSize="2xl" color="#fff">
               VRMC
               </Text>
@@ -192,7 +192,7 @@ const LandingPage = (props) => {
             justifyContent="center"
             alignItems="center"
           >
-            <Tooltip label="Dummy Numbers">
+            <Tooltip label="VRMetaCenter">
               <Text fontSize="2xl" color="#fff">
               VRMetaCenter
               </Text>
@@ -209,7 +209,7 @@ const LandingPage = (props) => {
             justifyContent="center"
             alignItems="center"
           >
-            <Tooltip label="Dummy Numbers">
+            <Tooltip label="1 Trillion">
               <Text fontSize="2xl" color="#fff">
               1000000000000
               </Text>

@@ -264,16 +264,42 @@ const LandingPage = (props) => {
           borderBottomRightRadius="0em"
         >
           <Text fontSize="5xl" fontWeight="bold">
-            VRMETA SPORTS
+          In the Beginning There Was Sports!
           </Text>
           <Text mt="1em">
-          We build breathtaking Virtual Reality experiences and 3D videos. 100% adapted to your business needs with an end to end digital process.
+          VRMC is the main hub unifying all our verticals, and is proud to present our flagship ecosystem, VRMetaSports (VRMS)!
+
+Imagine a world where you can create a team from friends, acquaintances, or strangers you meet playing your favorite sport.
+A world where you start on the playground, then move up to the pros. A world where all ages, races, and genders can compete equally based on their skill level.
+Imagine no more. Enter the world of the VRMetaSports. Your role is determined by your goals. Just some of the options that
+can be filled with experience and passion.
             <br />
             <br />
-            Your role is determined by your goals. Just some of the options that can be filled with experience and passion.
+            Play—Start on the playground to develop your skills to the level where you are discovered by an organized team, where you play for money and fame.
             <br />
             <br />
-            Play Tran Coach Manage Own, Sell, Earn, and more...
+            Train—Help your team’s players develop their skills to take the team up the ladder.
+            <br />
+            <br />
+            Coach—Develop strategies to win, to use the talents of your players.
+            <br />
+            <br />
+            Manager—Find the best players out there and convince them to play for you.
+            <br />
+            <br />
+            Own—Buy a stadium, find sponsors, players, managers, coaches, trainers, and build a team to dominate the sport. Take your team to international tournaments to gain exposure for more revenues.
+            <br />
+            <br />
+            Sell—Find buyers for advertising in the stadiums, for NFT merchandising, and for ticket sales to watch and cheer for teams for those not interested in being part of the system, but still wanting to be a spectator.      
+            <br />
+            <br />
+            Create—Develop stadiums for play and sell them to owners for their teams. Design team uniforms and paraphernalia.
+            <br />
+            <br />
+            Agent—Represent players to get them the best contracts and teams.
+            <br />
+            <br />
+            Announce—Call the games and provide stats on the players. Develop a following on social media to increase your market share.
           </Text>
         </Flex>
         <Flex flexDirection="column" mr="10%" alignItems="center">

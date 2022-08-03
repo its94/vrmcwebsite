@@ -131,13 +131,13 @@ const LandingPage = (props) => {
                   mt="2em"
                   pl="2em"
                   pr="1em"
-                  borderRadius={155}
+                  borderRadius={0}
                   bg="#1a202c"
                   color="#fff"
                   rightIcon={<ChevronRightIcon />}
                   boxShadow="dark-lg"
                   _hover={{
-                    background: "#fff",
+                    background: "#ddd",
                     color: "#1a202c",
                     textDecoration: "none",
                   }}

@@ -53,7 +53,7 @@ const LandingPage = (props) => {
             >
               <Image
                 src="/VRMCrrturqalpha.png"
-                boxSize="180px"
+                boxSize="280px"
                 alt="VRMC"
                 zIndex="2"
               />

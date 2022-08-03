@@ -110,7 +110,7 @@ const SecondButton = ({ pageType }) => {
     <ConnectButton
       color="blue"
       moralisAuth={false}
-      signingMessage="Sign to login to VMTree"
+      signingMessage="Sign to login to VRMC"
       zIndex="2147483647"
     />
   );
@@ -127,7 +127,7 @@ const Logo = (props) => {
           color="whiteAlpha.900"
           fontWeight="bold"
           textAlign="center"
-          fontSize={36}
+          fontSize={28}
           letterSpacing="wider"
         >
           VRMetaCenter
@@ -147,7 +147,7 @@ const NavBarContainer = ({ children, ...props }) => {
       w="100%"
       mb={8}
       p={2}
-      bg="#6e6e6e"
+      bg="#043a8b"
       {...props}
     >
       {children}

@@ -58,8 +58,8 @@ const Footer = () => {
                 size="md"
                 m="1em"
                 borderRadius={50}
-                bg="#7289DAf"
-                _hover={{ background: "#7289DAf", color: "#fff" }}
+                bg="#7289DA"
+                _hover={{ background: "#7289DA", color: "#fff" }}
                 sx={{ textDecoration: "none" }}
               >
                 DISCORD

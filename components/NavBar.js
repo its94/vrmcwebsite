@@ -109,6 +109,7 @@ const SecondButton = ({ pageType }) => {
   return (
     <ConnectButton
       color="blue"
+      bg="blue"
       moralisAuth={false}
       signingMessage="Sign to login to VRMC"
       zIndex="2147483647"

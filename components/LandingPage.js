@@ -46,7 +46,8 @@ const LandingPage = (props) => {
           >
             <Flex
               ml="10em"
-              
+              mt="-80px"
+              ml="-50px"
               borderBottomRadius="0%"
               p="10px"
               h="full"

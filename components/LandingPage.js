@@ -307,7 +307,7 @@ can be filled with experience and passion.
         </Flex>
         <Flex flexDirection="column" mr="10%" alignItems="center">
           <Link
-            href="https://vrmetacenterdocumentation.vercel.app/"
+            href="https://s3.us-west-2.amazonaws.com/secure.notion-static.com/f06070bd-15df-4479-811e-2711f6e1b627/VRMC_-_Sports_Page.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220804%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220804T142528Z&X-Amz-Expires=86400&X-Amz-Signature=b45f3e6a4acb8fbc6400c4cb5bfd33a3f685441f12886723634204d6e1085460&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22VRMC%2520-%2520Sports%2520Page.pdf%22&x-id=GetObject"
             isExternal
             _hover={{ textDecoration: "none", boxShadow: "2xl" }}
             borderRadius="50%"
@@ -325,7 +325,7 @@ can be filled with experience and passion.
             />
           </Link>
           <Link
-            href="https://vrmetacenterdocumentation.vercel.app/"
+            href="https://s3.us-west-2.amazonaws.com/secure.notion-static.com/f06070bd-15df-4479-811e-2711f6e1b627/VRMC_-_Sports_Page.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220804%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220804T142528Z&X-Amz-Expires=86400&X-Amz-Signature=b45f3e6a4acb8fbc6400c4cb5bfd33a3f685441f12886723634204d6e1085460&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22VRMC%2520-%2520Sports%2520Page.pdf%22&x-id=GetObject"
             _hover={{ textDecoration: "none" }}
             mt="1em"
             isExternal

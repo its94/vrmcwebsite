@@ -57,12 +57,12 @@ const Footer = () => {
                 variant="solid"
                 size="md"
                 m="1em"
-                borderRadius={0}
-                bg="#fff"
-                _hover={{ background: "#2c4cb6", color: "#fff" }}
+                borderRadius={50}
+                bg="#7289DAf"
+                _hover={{ background: "#7289DAf", color: "#fff" }}
                 sx={{ textDecoration: "none" }}
               >
-                DOCUMENTATION
+                DISCORD
               </Button>
             </Link>
             <Link
@@ -75,11 +75,11 @@ const Footer = () => {
                 variant="solid"
                 size="md"
                 m="1em"
-                borderRadius={0}
-                bg="#fff"
-                _hover={{ background: "#2c4cb6", color: "#fff" }}
+                borderRadius={50}
+                bg="#229ED9"
+                _hover={{ background: "#229ED9", color: "#fff" }}
               >
-                DAPP
+                TELEGRAM
               </Button>
             </Link>
           </Flex>

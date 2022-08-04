@@ -329,7 +329,7 @@ can be filled with experience and passion.
             mt="1em"
             isExternal
           >
-            <Text fontWeight="semibold">Documentation</Text>
+            <Text fontWeight="semibold">Whitepaper</Text>
           </Link>
         </Flex>
       </Flex>

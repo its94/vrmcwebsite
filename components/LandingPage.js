@@ -314,6 +314,7 @@ can be filled with experience and passion.
             boxShadow="dark-lg"
             boxSize="80px"
             alignItems="center"
+            background="#8a8f93"
             alignContent="center"
           >
             <ExternalLinkIcon

@@ -66,7 +66,7 @@ const MenuLinks = ({ isOpen, pageType }) => {
     >
       <Flex mr={10} alignItems="center" justifyContent="center">
         {/* TODO: add doc's link here */}
-        <Link href="https://vrmetacenterdocumentation.vercel.app/" _hover={{ textDecoration: "none" }} isExternal>
+        <Link href="#" _hover={{ textDecoration: "none" }} isExternal>
           <Button
             variant="solid"
             size="md"

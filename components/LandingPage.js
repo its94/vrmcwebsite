@@ -82,7 +82,7 @@ const LandingPage = (props) => {
                   pl="2em"
                   pr="1em"
                   borderRadius={0}
-                  bg="#043a8b"
+                  bg="#d7d7d7"
                   color="#fff"
                   boxShadow="dark-lg"
                   rightIcon={<ChevronRightIcon />}
@@ -167,7 +167,7 @@ const LandingPage = (props) => {
           backgroundPosition="right"
           backgroundRepeat="no-repeat"
           w="full"
-          bg="#043a8b"
+          bg="#d7d7d7"
           zIndex="0"
         >
           <Flex

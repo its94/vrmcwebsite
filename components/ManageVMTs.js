@@ -128,7 +128,7 @@ const ManageVMTs = (props) => {
             bgColor="#EBF8FF"
             color="#1a202c"
             _hover={{
-              background: "#043a8b",
+              background: "#d7d7d7",
               borderColor: "#fff",
               color: "#fff",
               borderWidth: "1.5px",

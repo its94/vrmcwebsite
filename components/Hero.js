@@ -224,7 +224,7 @@ const Hero = ({ handleVMTreeCreation }) => {
                 color="#fff"
                 _hover={{
                   background: "#fff",
-                  borderColor: "#043a8b",
+                  borderColor: "#d7d7d7",
                   color: "#1a202c",
                   borderWidth: "1.5px",
                 }}

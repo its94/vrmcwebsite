@@ -176,12 +176,12 @@ const LandingPage = (props) => {
             alignItems="center"
           >
             <Tooltip label="VRMC">
-              <Text fontSize="2xl" color="#fff">
+              <Text fontSize="2xl" color="#000">
               VRMC
               </Text>
             </Tooltip>
 
-            <Text fontSize="sm" color="#fff">
+            <Text fontSize="sm" color="#000">
             Token Symbol
             </Text>
           </Flex>
@@ -194,11 +194,11 @@ const LandingPage = (props) => {
             alignItems="center"
           >
             <Tooltip label="VRMetaCenter">
-              <Text fontSize="2xl" color="#fff">
+              <Text fontSize="2xl" color="#000">
               VRMetaCenter
               </Text>
             </Tooltip>
-            <Text fontSize="sm" color="#fff">
+            <Text fontSize="sm" color="#000">
             Token Name
             </Text>
           </Flex>
@@ -211,11 +211,11 @@ const LandingPage = (props) => {
             alignItems="center"
           >
             <Tooltip label="1 Trillion">
-              <Text fontSize="2xl" color="#fff">
+              <Text fontSize="2xl" color="#000">
               1000000000000
               </Text>
             </Tooltip>
-            <Text fontSize="sm" color="#fff">
+            <Text fontSize="sm" color="#000">
               Supply
             </Text>
           </Flex>

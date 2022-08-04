@@ -45,7 +45,7 @@ const LandingPage = (props) => {
             w="full"
           >
             <Flex
-              ml="10em"
+              
               mt="-80px"
               ml="-50px"
               borderBottomRadius="0%"
